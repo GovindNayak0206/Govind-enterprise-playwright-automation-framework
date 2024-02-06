@@ -27,7 +27,7 @@ test.skip("Sample env file encryption test", async ({ page }) => {
    // console.log(decrypt(""));
 });
 
-test.skip("Check decryption of creds stored in env variables", async ({ page }) => {
+test("Check decryption of creds stored in env variables", async ({ page }) => {
    console.log("SALT: ", process.env.SALT);
    const decryptedUsername = decrypt(process.env.userid!);
    console.log('Decrypted Username: ', decryptedUsername);
