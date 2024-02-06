@@ -1,0 +1,968 @@
+2024-02-05T18:56:38Z [info]: Test for Contact Creation is started...
+2024-02-05T18:56:38Z [info]: Test for Contact Creation is started...
+2024-02-05T18:56:39Z [info]: Navigated to login page
+2024-02-05T18:56:40Z [info]: Filled username
+2024-02-05T18:56:40Z [info]: Filled password
+2024-02-05T18:56:40Z [info]: Navigated to login page
+2024-02-05T18:56:41Z [info]: Filled username
+2024-02-05T18:56:41Z [info]: Filled password
+2024-02-05T18:56:42Z [info]: Login Button is clicked
+2024-02-05T18:56:43Z [info]: Login Button is clicked
+2024-02-05T18:56:43Z [info]: Home Tab is visible
+2024-02-05T18:56:44Z [info]: Home Tab is visible
+2024-02-05T18:56:47Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T18:56:48Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T18:56:49Z [info]: Service Option is clicked
+2024-02-05T18:56:51Z [info]: Service Option is clicked
+2024-02-05T18:56:54Z [info]: Contacts Tab is visible
+2024-02-05T18:56:54Z [info]: Contacts Tab is clicked
+2024-02-05T18:56:55Z [info]: Contacts Tab is visible
+2024-02-05T18:56:56Z [info]: Contacts Tab is clicked
+2024-02-05T18:56:58Z [info]: New button is clicked
+2024-02-05T18:56:59Z [info]: New button is clicked
+2024-02-05T18:57:00Z [info]: First name is filled as green
+2024-02-05T18:57:01Z [info]: Last name is filled as blue
+2024-02-05T18:57:01Z [info]: Save Button is clicked
+2024-02-05T18:57:02Z [info]: First name is filled as red
+2024-02-05T18:57:03Z [info]: Last name is filled as black
+2024-02-05T18:57:03Z [info]: Save Button is clicked
+2024-02-05T18:57:04Z [info]: New contact created and green blue is visible
+2024-02-05T18:57:05Z [info]: New contact created and red black is visible
+2024-02-05T18:57:05Z [info]: Test for Contact Creation is completed
+2024-02-05T18:57:06Z [info]: Test for Contact Creation is completed
+2024-02-05T18:58:02Z [info]: Test for Contact Creation is started...
+2024-02-05T18:58:02Z [info]: Test for Contact Creation is started...
+2024-02-05T18:58:03Z [info]: Navigated to login page
+2024-02-05T18:58:03Z [info]: Filled username
+2024-02-05T18:58:03Z [info]: Filled password
+2024-02-05T18:58:04Z [info]: Navigated to login page
+2024-02-05T18:58:05Z [info]: Filled username
+2024-02-05T18:58:05Z [info]: Login Button is clicked
+2024-02-05T18:58:06Z [info]: Filled password
+2024-02-05T18:58:07Z [info]: Login Button is clicked
+2024-02-05T18:58:07Z [info]: Home Tab is visible
+2024-02-05T18:58:10Z [info]: Home Tab is visible
+2024-02-05T18:58:12Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T18:58:14Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T18:58:15Z [info]: Service Option is clicked
+2024-02-05T18:58:17Z [info]: Service Option is clicked
+2024-02-05T18:58:19Z [info]: Contacts Tab is visible
+2024-02-05T18:58:19Z [info]: Contacts Tab is clicked
+2024-02-05T18:58:21Z [info]: Contacts Tab is visible
+2024-02-05T18:58:22Z [info]: Contacts Tab is clicked
+2024-02-05T18:58:23Z [info]: New button is clicked
+2024-02-05T18:58:26Z [info]: New button is clicked
+2024-02-05T18:58:26Z [info]: First name is filled as red
+2024-02-05T18:58:27Z [info]: Last name is filled as black
+2024-02-05T18:58:27Z [info]: Save Button is clicked
+2024-02-05T18:58:27Z [info]: First name is filled as green
+2024-02-05T18:58:28Z [info]: Last name is filled as blue
+2024-02-05T18:58:28Z [info]: Save Button is clicked
+2024-02-05T18:58:30Z [info]: New contact created and red black is visible
+2024-02-05T18:58:31Z [info]: New contact created and green blue is visible
+2024-02-05T18:58:32Z [info]: Test for Contact Creation is completed
+2024-02-05T18:58:32Z [info]: Test for Contact Creation is completed
+2024-02-05T20:29:03Z [info]: Test for Contact Creation is started...
+2024-02-05T20:29:04Z [info]: Test for Contact Creation is started...
+2024-02-05T20:29:05Z [info]: Navigated to login page
+2024-02-05T20:29:05Z [info]: Filled username
+2024-02-05T20:29:05Z [info]: Filled password
+2024-02-05T20:29:06Z [info]: Navigated to login page
+2024-02-05T20:29:06Z [info]: Filled username
+2024-02-05T20:29:06Z [info]: Filled password
+2024-02-05T20:29:07Z [info]: Login Button is clicked
+2024-02-05T20:29:08Z [info]: Login Button is clicked
+2024-02-05T20:29:09Z [info]: Home Tab is visible
+2024-02-05T20:29:10Z [info]: Home Tab is visible
+2024-02-05T20:29:13Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T20:29:14Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T20:29:15Z [info]: Service Option is clicked
+2024-02-05T20:29:17Z [info]: Service Option is clicked
+2024-02-05T20:29:19Z [info]: Contacts Tab is visible
+2024-02-05T20:29:20Z [info]: Contacts Tab is clicked
+2024-02-05T20:29:20Z [info]: Contacts Tab is visible
+2024-02-05T20:29:21Z [info]: Contacts Tab is clicked
+2024-02-05T20:29:23Z [info]: New button is clicked
+2024-02-05T20:29:25Z [info]: New button is clicked
+2024-02-05T20:29:26Z [info]: First name is filled as red
+2024-02-05T20:29:27Z [info]: Last name is filled as black
+2024-02-05T20:29:27Z [info]: Save Button is clicked
+2024-02-05T20:29:27Z [info]: First name is filled as green
+2024-02-05T20:29:28Z [info]: Last name is filled as blue
+2024-02-05T20:29:28Z [info]: Save Button is clicked
+2024-02-05T20:29:30Z [info]: New contact created and red black is visible
+2024-02-05T20:29:30Z [info]: Test for Contact Creation is completed
+2024-02-05T20:29:31Z [info]: New contact created and green blue is visible
+2024-02-05T20:29:32Z [info]: Test for Contact Creation is completed
+2024-02-05T20:33:52Z [info]: Test for Contact Creation is started...
+2024-02-05T20:33:52Z [info]: Test for Contact Creation is started...
+2024-02-05T20:33:53Z [info]: Navigated to login page
+2024-02-05T20:33:54Z [info]: Navigated to login page
+2024-02-05T20:33:55Z [info]: Filled username
+2024-02-05T20:33:55Z [info]: Filled username
+2024-02-05T20:33:56Z [info]: Filled password
+2024-02-05T20:33:56Z [info]: Filled password
+2024-02-05T20:33:56Z [info]: Login Button is clicked
+2024-02-05T20:33:57Z [info]: Login Button is clicked
+2024-02-05T20:33:58Z [info]: Home Tab is visible
+2024-02-05T20:33:59Z [info]: Home Tab is visible
+2024-02-05T20:34:01Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T20:34:03Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T20:34:03Z [info]: Service Option is clicked
+2024-02-05T20:34:05Z [info]: Service Option is clicked
+2024-02-05T20:34:07Z [info]: Contacts Tab is visible
+2024-02-05T20:34:08Z [info]: Contacts Tab is clicked
+2024-02-05T20:34:08Z [info]: Contacts Tab is visible
+2024-02-05T20:34:09Z [info]: Contacts Tab is clicked
+2024-02-05T20:34:12Z [info]: New button is clicked
+2024-02-05T20:34:13Z [info]: New button is clicked
+2024-02-05T20:34:13Z [info]: First name is filled as red
+2024-02-05T20:34:14Z [info]: Last name is filled as black
+2024-02-05T20:34:14Z [info]: Save Button is clicked
+2024-02-05T20:34:16Z [info]: First name is filled as green
+2024-02-05T20:34:16Z [info]: Last name is filled as blue
+2024-02-05T20:34:16Z [info]: Save Button is clicked
+2024-02-05T20:34:17Z [info]: New contact created and red black is visible
+2024-02-05T20:34:17Z [info]: Test for Contact Creation is completed
+2024-02-05T20:34:19Z [info]: New contact created and green blue is visible
+2024-02-05T20:34:20Z [info]: Test for Contact Creation is completed
+2024-02-05T20:38:44Z [info]: Test for Contact Creation is started...
+2024-02-05T20:38:45Z [info]: Test for Contact Creation is started...
+2024-02-05T20:38:46Z [info]: Navigated to login page
+2024-02-05T20:38:46Z [info]: Filled username
+2024-02-05T20:38:46Z [info]: Filled password
+2024-02-05T20:38:46Z [info]: Navigated to login page
+2024-02-05T20:38:47Z [info]: Filled username
+2024-02-05T20:38:47Z [info]: Filled password
+2024-02-05T20:38:48Z [info]: Login Button is clicked
+2024-02-05T20:38:48Z [info]: Login Button is clicked
+2024-02-05T20:38:50Z [info]: Home Tab is visible
+2024-02-05T20:38:51Z [info]: Home Tab is visible
+2024-02-05T20:38:53Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T20:38:54Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T20:38:55Z [info]: Service Option is clicked
+2024-02-05T20:38:57Z [info]: Service Option is clicked
+2024-02-05T20:38:59Z [info]: Contacts Tab is visible
+2024-02-05T20:39:00Z [info]: Contacts Tab is clicked
+2024-02-05T20:39:00Z [info]: Contacts Tab is visible
+2024-02-05T20:39:01Z [info]: Contacts Tab is clicked
+2024-02-05T20:39:03Z [info]: New button is clicked
+2024-02-05T20:39:05Z [info]: New button is clicked
+2024-02-05T20:39:06Z [info]: First name is filled as red
+2024-02-05T20:39:07Z [info]: Last name is filled as black
+2024-02-05T20:39:07Z [info]: First name is filled as green
+2024-02-05T20:39:07Z [info]: Save Button is clicked
+2024-02-05T20:39:07Z [info]: Last name is filled as blue
+2024-02-05T20:39:07Z [info]: Save Button is clicked
+2024-02-05T20:39:10Z [info]: New contact created and red black is visible
+2024-02-05T20:39:10Z [info]: New contact created and green blue is visible
+2024-02-05T20:39:11Z [info]: Test for Contact Creation is completed
+2024-02-05T20:39:11Z [info]: Test for Contact Creation is completed
+2024-02-05T20:39:26Z [info]: Test for Contact Creation is started...
+2024-02-05T20:39:26Z [info]: Test for Contact Creation is started...
+2024-02-05T20:39:27Z [info]: Navigated to login page
+2024-02-05T20:39:27Z [info]: Filled username
+2024-02-05T20:39:27Z [info]: Filled password
+2024-02-05T20:39:28Z [info]: Navigated to login page
+2024-02-05T20:39:28Z [info]: Filled username
+2024-02-05T20:39:28Z [info]: Filled password
+2024-02-05T20:39:29Z [info]: Login Button is clicked
+2024-02-05T20:39:30Z [info]: Login Button is clicked
+2024-02-05T20:39:30Z [info]: Home Tab is visible
+2024-02-05T20:39:32Z [info]: Home Tab is visible
+2024-02-05T20:39:34Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T20:39:34Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T20:39:36Z [info]: Service Option is clicked
+2024-02-05T20:39:36Z [info]: Service Option is clicked
+2024-02-05T20:39:40Z [info]: Contacts Tab is visible
+2024-02-05T20:39:41Z [info]: Contacts Tab is visible
+2024-02-05T20:39:41Z [info]: Contacts Tab is clicked
+2024-02-05T20:39:41Z [info]: Contacts Tab is clicked
+2024-02-05T20:39:45Z [info]: New button is clicked
+2024-02-05T20:39:46Z [info]: New button is clicked
+2024-02-05T20:39:48Z [info]: First name is filled as green
+2024-02-05T20:39:48Z [info]: Last name is filled as blue
+2024-02-05T20:39:48Z [info]: Save Button is clicked
+2024-02-05T20:39:49Z [info]: First name is filled as red
+2024-02-05T20:39:49Z [info]: Last name is filled as black
+2024-02-05T20:39:50Z [info]: Save Button is clicked
+2024-02-05T20:39:50Z [info]: New contact created and green blue is visible
+2024-02-05T20:39:52Z [info]: Test for Contact Creation is completed
+2024-02-05T20:39:52Z [info]: New contact created and red black is visible
+2024-02-05T20:39:53Z [info]: Test for Contact Creation is completed
+2024-02-05T22:37:19Z [info]: Test for Contact Creation is started...
+2024-02-05T22:37:20Z [info]: Test for Contact Creation is started...
+2024-02-05T22:37:21Z [info]: Navigated to login page
+2024-02-05T22:37:21Z [info]: Filled username
+2024-02-05T22:37:22Z [info]: Navigated to login page
+2024-02-05T22:37:22Z [info]: Filled password
+2024-02-05T22:37:22Z [info]: Filled username
+2024-02-05T22:37:22Z [info]: Filled password
+2024-02-05T22:37:23Z [info]: Login Button is clicked
+2024-02-05T22:37:24Z [info]: Login Button is clicked
+2024-02-05T22:37:24Z [info]: Home Tab is visible
+2024-02-05T22:37:27Z [info]: Home Tab is visible
+2024-02-05T22:37:28Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:37:29Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:37:30Z [info]: Service Option is clicked
+2024-02-05T22:37:31Z [info]: Service Option is clicked
+2024-02-05T22:37:34Z [info]: Contacts Tab is visible
+2024-02-05T22:37:35Z [info]: Contacts Tab is visible
+2024-02-05T22:37:36Z [info]: Contacts Tab is clicked
+2024-02-05T22:37:36Z [info]: Contacts Tab is clicked
+2024-02-05T22:37:38Z [info]: New button is clicked
+2024-02-05T22:37:40Z [info]: New button is clicked
+2024-02-05T22:37:41Z [info]: First name is filled as red
+2024-02-05T22:37:42Z [info]: First name is filled as green
+2024-02-05T22:37:42Z [info]: Last name is filled as blue
+2024-02-05T22:37:42Z [info]: Save Button is clicked
+2024-02-05T22:37:42Z [info]: Last name is filled as black
+2024-02-05T22:37:43Z [info]: Save Button is clicked
+2024-02-05T22:37:44Z [info]: New contact created and green blue is visible
+2024-02-05T22:37:45Z [info]: New contact created and red black is visible
+2024-02-05T22:37:46Z [info]: Test for Contact Creation is completed
+2024-02-05T22:37:46Z [info]: Test for Contact Creation is completed
+2024-02-05T22:44:11Z [info]: Test for Contact Creation is started...
+2024-02-05T22:44:12Z [info]: Test for Contact Creation is started...
+2024-02-05T22:44:12Z [info]: Test for Contact Creation is started...
+2024-02-05T22:44:12Z [info]: Test for Contact Creation is started...
+2024-02-05T22:44:14Z [info]: Navigated to login page
+2024-02-05T22:44:14Z [info]: Filled username
+2024-02-05T22:44:14Z [info]: Filled password
+2024-02-05T22:44:15Z [info]: Navigated to login page
+2024-02-05T22:44:16Z [info]: Login Button is clicked
+2024-02-05T22:44:17Z [info]: Navigated to login page
+2024-02-05T22:44:17Z [info]: Navigated to login page
+2024-02-05T22:44:19Z [info]: Filled username
+2024-02-05T22:44:19Z [info]: Filled username
+2024-02-05T22:44:19Z [info]: Filled password
+2024-02-05T22:44:20Z [info]: Filled username
+2024-02-05T22:44:20Z [info]: Filled password
+2024-02-05T22:44:20Z [info]: Filled password
+2024-02-05T22:44:20Z [info]: Login Button is clicked
+2024-02-05T22:44:21Z [info]: Home Tab is visible
+2024-02-05T22:44:21Z [info]: Login Button is clicked
+2024-02-05T22:44:22Z [info]: Login Button is clicked
+2024-02-05T22:44:24Z [info]: Home Tab is visible
+2024-02-05T22:44:25Z [info]: Home Tab is visible
+2024-02-05T22:44:26Z [info]: Home Tab is visible
+2024-02-05T22:44:35Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:44:35Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:44:37Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:44:38Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:44:38Z [info]: Service Option is clicked
+2024-02-05T22:44:41Z [info]: Service Option is clicked
+2024-02-05T22:44:42Z [info]: Service Option is clicked
+2024-02-05T22:44:44Z [info]: Service Option is clicked
+2024-02-05T22:44:49Z [info]: Contacts Tab is visible
+2024-02-05T22:44:51Z [info]: Contacts Tab is clicked
+2024-02-05T22:44:55Z [info]: New button is clicked
+2024-02-05T22:44:58Z [info]: First name is filled as Percival
+2024-02-05T22:44:59Z [info]: Last name is filled as Nicolas
+2024-02-05T22:44:59Z [info]: Save Button is clicked
+2024-02-05T22:45:02Z [info]: Test for Contact Creation is started...
+2024-02-05T22:45:02Z [info]: Test for Contact Creation is started...
+2024-02-05T22:45:03Z [info]: Navigated to login page
+2024-02-05T22:45:03Z [info]: New contact created and Percival Nicolas is visible
+2024-02-05T22:45:04Z [info]: Test for Contact Creation is started...
+2024-02-05T22:45:05Z [info]: Navigated to login page
+2024-02-05T22:45:06Z [info]: Filled username
+2024-02-05T22:45:06Z [info]: Filled username
+2024-02-05T22:45:06Z [info]: Filled password
+2024-02-05T22:45:06Z [info]: Navigated to login page
+2024-02-05T22:45:07Z [info]: Filled username
+2024-02-05T22:45:07Z [info]: Login Button is clicked
+2024-02-05T22:45:08Z [info]: Filled password
+2024-02-05T22:45:08Z [info]: Filled password
+2024-02-05T22:45:08Z [info]: Test for Contact Creation is completed
+2024-02-05T22:45:09Z [info]: Login Button is clicked
+2024-02-05T22:45:11Z [info]: Login Button is clicked
+2024-02-05T22:45:11Z [info]: Home Tab is visible
+2024-02-05T22:45:12Z [info]: Home Tab is visible
+2024-02-05T22:45:14Z [info]: Home Tab is visible
+2024-02-05T22:45:17Z [info]: Test for Contact Creation is started...
+2024-02-05T22:45:18Z [info]: Navigated to login page
+2024-02-05T22:45:19Z [info]: Filled username
+2024-02-05T22:45:21Z [info]: Filled password
+2024-02-05T22:45:22Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:45:22Z [info]: Login Button is clicked
+2024-02-05T22:45:23Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:45:24Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:45:25Z [info]: Home Tab is visible
+2024-02-05T22:45:27Z [info]: Service Option is clicked
+2024-02-05T22:45:27Z [info]: Service Option is clicked
+2024-02-05T22:45:29Z [info]: Service Option is clicked
+2024-02-05T22:45:38Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:45:40Z [info]: Service Option is clicked
+2024-02-05T22:45:44Z [info]: Contacts Tab is visible
+2024-02-05T22:45:44Z [info]: Contacts Tab is clicked
+2024-02-05T22:45:48Z [info]: New button is clicked
+2024-02-05T22:45:49Z [info]: Test for Contact Creation is started...
+2024-02-05T22:45:52Z [info]: Navigated to login page
+2024-02-05T22:45:53Z [info]: Test for Contact Creation is started...
+2024-02-05T22:45:53Z [info]: Filled username
+2024-02-05T22:45:53Z [info]: Filled password
+2024-02-05T22:45:53Z [info]: Test for Contact Creation is started...
+2024-02-05T22:45:54Z [info]: First name is filled as Patricia
+2024-02-05T22:45:54Z [info]: Navigated to login page
+2024-02-05T22:45:54Z [info]: Login Button is clicked
+2024-02-05T22:45:55Z [info]: Last name is filled as Gutkowski
+2024-02-05T22:45:55Z [info]: Navigated to login page
+2024-02-05T22:45:56Z [info]: Filled username
+2024-02-05T22:45:57Z [info]: Filled username
+2024-02-05T22:45:57Z [info]: Home Tab is visible
+2024-02-05T22:45:57Z [info]: Filled password
+2024-02-05T22:45:57Z [info]: Filled password
+2024-02-05T22:45:58Z [info]: Login Button is clicked
+2024-02-05T22:45:59Z [info]: Login Button is clicked
+2024-02-05T22:46:01Z [info]: Save Button is clicked
+2024-02-05T22:46:03Z [info]: New contact created and Patricia Gutkowski is visible
+2024-02-05T22:46:03Z [info]: Home Tab is visible
+2024-02-05T22:46:05Z [info]: Home Tab is visible
+2024-02-05T22:46:07Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:46:07Z [info]: Test for Contact Creation is completed
+2024-02-05T22:46:10Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:46:10Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:46:11Z [info]: Service Option is clicked
+2024-02-05T22:46:14Z [info]: Test for Contact Creation is started...
+2024-02-05T22:46:14Z [info]: Navigated to login page
+2024-02-05T22:46:15Z [info]: Filled username
+2024-02-05T22:46:15Z [info]: Service Option is clicked
+2024-02-05T22:46:15Z [info]: Service Option is clicked
+2024-02-05T22:46:15Z [info]: Filled password
+2024-02-05T22:46:16Z [info]: Contacts Tab is visible
+2024-02-05T22:46:18Z [info]: Login Button is clicked
+2024-02-05T22:46:23Z [info]: Home Tab is visible
+2024-02-05T22:46:26Z [info]: Contacts Tab is clicked
+2024-02-05T22:46:28Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:46:29Z [info]: Service Option is clicked
+2024-02-05T22:46:30Z [info]: New button is clicked
+2024-02-05T22:46:33Z [info]: First name is filled as Jayson
+2024-02-05T22:46:34Z [info]: Last name is filled as Kulas
+2024-02-05T22:46:34Z [info]: Save Button is clicked
+2024-02-05T22:46:34Z [info]: Contacts Tab is visible
+2024-02-05T22:46:36Z [info]: Contacts Tab is clicked
+2024-02-05T22:46:37Z [info]: New contact created and Jayson Kulas is visible
+2024-02-05T22:46:39Z [info]: Test for Contact Creation is completed
+2024-02-05T22:46:40Z [info]: New button is clicked
+2024-02-05T22:46:43Z [info]: Test for Contact Creation is started...
+2024-02-05T22:46:43Z [info]: Test for Contact Creation is started...
+2024-02-05T22:46:44Z [info]: Test for Contact Creation is started...
+2024-02-05T22:46:45Z [info]: Navigated to login page
+2024-02-05T22:46:45Z [info]: Filled username
+2024-02-05T22:46:45Z [info]: Filled password
+2024-02-05T22:46:46Z [info]: Navigated to login page
+2024-02-05T22:46:47Z [info]: Navigated to login page
+2024-02-05T22:46:47Z [info]: Login Button is clicked
+2024-02-05T22:46:47Z [info]: Filled username
+2024-02-05T22:46:47Z [info]: First name is filled as Aaron
+2024-02-05T22:46:48Z [info]: Filled password
+2024-02-05T22:46:48Z [info]: Last name is filled as Quigley
+2024-02-05T22:46:49Z [info]: Filled username
+2024-02-05T22:46:49Z [info]: Filled password
+2024-02-05T22:46:49Z [info]: Home Tab is visible
+2024-02-05T22:46:49Z [info]: Login Button is clicked
+2024-02-05T22:46:51Z [info]: Login Button is clicked
+2024-02-05T22:46:54Z [info]: Home Tab is visible
+2024-02-05T22:46:55Z [info]: Save Button is clicked
+2024-02-05T22:46:57Z [info]: New contact created and Aaron Quigley is visible
+2024-02-05T22:46:57Z [info]: Home Tab is visible
+2024-02-05T22:47:01Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:47:01Z [info]: Test for Contact Creation is completed
+2024-02-05T22:47:04Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:47:04Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:47:06Z [info]: Service Option is clicked
+2024-02-05T22:47:07Z [info]: Test for Contact Creation is started...
+2024-02-05T22:47:08Z [info]: Navigated to login page
+2024-02-05T22:47:08Z [info]: Service Option is clicked
+2024-02-05T22:47:09Z [info]: Filled username
+2024-02-05T22:47:11Z [info]: Service Option is clicked
+2024-02-05T22:47:12Z [info]: Filled password
+2024-02-05T22:47:13Z [info]: Login Button is clicked
+2024-02-05T22:47:16Z [info]: Contacts Tab is visible
+2024-02-05T22:47:16Z [info]: Home Tab is visible
+2024-02-05T22:47:18Z [info]: Contacts Tab is clicked
+2024-02-05T22:47:20Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:47:22Z [info]: New button is clicked
+2024-02-05T22:47:23Z [info]: Service Option is clicked
+2024-02-05T22:47:26Z [info]: First name is filled as Alexander
+2024-02-05T22:47:27Z [info]: Last name is filled as Davis
+2024-02-05T22:47:27Z [info]: Save Button is clicked
+2024-02-05T22:47:27Z [info]: Contacts Tab is visible
+2024-02-05T22:47:31Z [info]: New contact created and Alexander Davis is visible
+2024-02-05T22:47:31Z [info]: Contacts Tab is clicked
+2024-02-05T22:47:31Z [info]: Test for Contact Creation is started...
+2024-02-05T22:47:32Z [info]: Test for Contact Creation is started...
+2024-02-05T22:47:32Z [info]: Navigated to login page
+2024-02-05T22:47:33Z [info]: Filled username
+2024-02-05T22:47:34Z [info]: Navigated to login page
+2024-02-05T22:47:35Z [info]: Filled username
+2024-02-05T22:47:35Z [info]: Filled password
+2024-02-05T22:47:35Z [info]: Filled password
+2024-02-05T22:47:36Z [info]: Login Button is clicked
+2024-02-05T22:47:36Z [info]: Test for Contact Creation is completed
+2024-02-05T22:47:37Z [info]: Login Button is clicked
+2024-02-05T22:47:39Z [info]: Home Tab is visible
+2024-02-05T22:47:40Z [info]: New button is clicked
+2024-02-05T22:47:41Z [info]: Home Tab is visible
+2024-02-05T22:47:41Z [info]: Test for Contact Creation is started...
+2024-02-05T22:47:43Z [info]: Navigated to login page
+2024-02-05T22:47:46Z [info]: Filled username
+2024-02-05T22:47:46Z [info]: First name is filled as Leonel
+2024-02-05T22:47:46Z [info]: Filled password
+2024-02-05T22:47:47Z [info]: Last name is filled as Gerhold
+2024-02-05T22:47:47Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:47:47Z [info]: Save Button is clicked
+2024-02-05T22:47:47Z [info]: Login Button is clicked
+2024-02-05T22:47:50Z [info]: Home Tab is visible
+2024-02-05T22:47:51Z [info]: Service Option is clicked
+2024-02-05T22:47:51Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:47:52Z [info]: New contact created and Leonel Gerhold is visible
+2024-02-05T22:47:56Z [info]: Test for Contact Creation is completed
+2024-02-05T22:47:56Z [info]: Service Option is clicked
+2024-02-05T22:47:58Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:48:01Z [info]: Test for Contact Creation is started...
+2024-02-05T22:48:02Z [info]: Navigated to login page
+2024-02-05T22:48:02Z [info]: Service Option is clicked
+2024-02-05T22:48:03Z [info]: Filled username
+2024-02-05T22:48:04Z [info]: Filled password
+2024-02-05T22:48:05Z [info]: Login Button is clicked
+2024-02-05T22:48:06Z [info]: Home Tab is visible
+2024-02-05T22:48:07Z [info]: Contacts Tab is visible
+2024-02-05T22:48:08Z [info]: Contacts Tab is clicked
+2024-02-05T22:48:10Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:48:10Z [info]: New button is clicked
+2024-02-05T22:48:12Z [info]: Service Option is clicked
+2024-02-05T22:48:14Z [info]: First name is filled as Sherwood
+2024-02-05T22:48:15Z [info]: Last name is filled as Jones-Kassulke
+2024-02-05T22:48:15Z [info]: Save Button is clicked
+2024-02-05T22:48:16Z [info]: Contacts Tab is visible
+2024-02-05T22:48:17Z [info]: Contacts Tab is clicked
+2024-02-05T22:48:18Z [info]: New contact created and Sherwood Jones-Kassulke is visible
+2024-02-05T22:48:19Z [info]: Test for Contact Creation is completed
+2024-02-05T22:48:20Z [info]: New button is clicked
+2024-02-05T22:48:23Z [info]: First name is filled as Jordane
+2024-02-05T22:48:23Z [info]: Last name is filled as Stark
+2024-02-05T22:48:23Z [info]: Save Button is clicked
+2024-02-05T22:48:26Z [info]: New contact created and Jordane Stark is visible
+2024-02-05T22:48:26Z [info]: Test for Contact Creation is completed
+2024-02-05T22:55:51Z [info]: Test for Contact Creation is started...
+2024-02-05T22:55:51Z [info]: Test for Contact Creation is started...
+2024-02-05T22:55:52Z [info]: Test for Contact Creation is started...
+2024-02-05T22:55:52Z [info]: Test for Contact Creation is started...
+2024-02-05T22:55:53Z [info]: Navigated to login page
+2024-02-05T22:55:53Z [info]: Filled username
+2024-02-05T22:55:54Z [info]: Filled password
+2024-02-05T22:55:55Z [info]: Login Button is clicked
+2024-02-05T22:55:55Z [info]: Navigated to login page
+2024-02-05T22:55:55Z [info]: Navigated to login page
+2024-02-05T22:55:57Z [info]: Navigated to login page
+2024-02-05T22:55:57Z [info]: Filled username
+2024-02-05T22:55:58Z [info]: Filled password
+2024-02-05T22:55:58Z [info]: Filled username
+2024-02-05T22:55:58Z [info]: Filled password
+2024-02-05T22:55:59Z [info]: Login Button is clicked
+2024-02-05T22:55:59Z [info]: Login Button is clicked
+2024-02-05T22:56:00Z [info]: Filled username
+2024-02-05T22:56:00Z [info]: Home Tab is visible
+2024-02-05T22:56:00Z [info]: Filled password
+2024-02-05T22:56:01Z [info]: Home Tab is visible
+2024-02-05T22:56:02Z [info]: Login Button is clicked
+2024-02-05T22:56:07Z [info]: Home Tab is visible
+2024-02-05T22:56:07Z [info]: Home Tab is visible
+2024-02-05T22:56:13Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:56:14Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:56:14Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:56:16Z [info]: Service Option is clicked
+2024-02-05T22:56:17Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:56:18Z [info]: Service Option is clicked
+2024-02-05T22:56:19Z [info]: Service Option is clicked
+2024-02-05T22:56:24Z [info]: Service Option is clicked
+2024-02-05T22:56:28Z [info]: Contacts Tab is visible
+2024-02-05T22:56:29Z [info]: Contacts Tab is clicked
+2024-02-05T22:56:33Z [info]: New button is clicked
+2024-02-05T22:56:37Z [info]: First name is filled as Percival
+2024-02-05T22:56:38Z [info]: Test for Contact Creation is started...
+2024-02-05T22:56:38Z [info]: Test for Contact Creation is started...
+2024-02-05T22:56:38Z [info]: Last name is filled as Nicolas
+2024-02-05T22:56:38Z [info]: Save Button is clicked
+2024-02-05T22:56:40Z [info]: Navigated to login page
+2024-02-05T22:56:40Z [info]: Test for Contact Creation is started...
+2024-02-05T22:56:41Z [info]: Filled username
+2024-02-05T22:56:42Z [info]: Navigated to login page
+2024-02-05T22:56:42Z [info]: Filled password
+2024-02-05T22:56:43Z [info]: Navigated to login page
+2024-02-05T22:56:43Z [info]: New contact created and Percival Nicolas is visible
+2024-02-05T22:56:43Z [info]: Login Button is clicked
+2024-02-05T22:56:44Z [info]: Filled username
+2024-02-05T22:56:45Z [info]: Filled username
+2024-02-05T22:56:45Z [info]: Filled password
+2024-02-05T22:56:45Z [info]: Filled password
+2024-02-05T22:56:46Z [info]: Home Tab is visible
+2024-02-05T22:56:46Z [info]: Login Button is clicked
+2024-02-05T22:56:46Z [info]: Login Button is clicked
+2024-02-05T22:56:49Z [info]: Test for Contact Creation is completed
+2024-02-05T22:56:52Z [info]: Home Tab is visible
+2024-02-05T22:56:52Z [info]: Home Tab is visible
+2024-02-05T22:56:57Z [info]: Test for Contact Creation is started...
+2024-02-05T22:56:58Z [info]: Navigated to login page
+2024-02-05T22:56:58Z [info]: Filled username
+2024-02-05T22:56:58Z [info]: Filled password
+2024-02-05T22:56:58Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:56:59Z [info]: Login Button is clicked
+2024-02-05T22:56:59Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:57:01Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:57:02Z [info]: Home Tab is visible
+2024-02-05T22:57:04Z [info]: Service Option is clicked
+2024-02-05T22:57:06Z [info]: Service Option is clicked
+2024-02-05T22:57:07Z [info]: Service Option is clicked
+2024-02-05T22:57:12Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:57:15Z [info]: Service Option is clicked
+2024-02-05T22:57:20Z [info]: Contacts Tab is visible
+2024-02-05T22:57:20Z [info]: Contacts Tab is clicked
+2024-02-05T22:57:24Z [info]: New button is clicked
+2024-02-05T22:57:25Z [info]: Test for Contact Creation is started...
+2024-02-05T22:57:26Z [info]: Navigated to login page
+2024-02-05T22:57:28Z [info]: Test for Contact Creation is started...
+2024-02-05T22:57:29Z [info]: Filled username
+2024-02-05T22:57:29Z [info]: Filled password
+2024-02-05T22:57:29Z [info]: Test for Contact Creation is started...
+2024-02-05T22:57:30Z [info]: First name is filled as Patricia
+2024-02-05T22:57:30Z [info]: Login Button is clicked
+2024-02-05T22:57:30Z [info]: Last name is filled as Gutkowski
+2024-02-05T22:57:31Z [info]: Navigated to login page
+2024-02-05T22:57:31Z [info]: Home Tab is visible
+2024-02-05T22:57:33Z [info]: Navigated to login page
+2024-02-05T22:57:34Z [info]: Filled username
+2024-02-05T22:57:34Z [info]: Filled password
+2024-02-05T22:57:34Z [info]: Save Button is clicked
+2024-02-05T22:57:35Z [info]: Filled username
+2024-02-05T22:57:35Z [info]: Login Button is clicked
+2024-02-05T22:57:35Z [info]: New contact created and Patricia Gutkowski is visible
+2024-02-05T22:57:36Z [info]: Filled password
+2024-02-05T22:57:37Z [info]: Login Button is clicked
+2024-02-05T22:57:37Z [info]: Home Tab is visible
+2024-02-05T22:57:40Z [info]: Home Tab is visible
+2024-02-05T22:57:41Z [info]: Test for Contact Creation is completed
+2024-02-05T22:57:42Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:57:46Z [info]: Test for Contact Creation is started...
+2024-02-05T22:57:46Z [info]: Navigated to login page
+2024-02-05T22:57:46Z [info]: Filled username
+2024-02-05T22:57:47Z [info]: Service Option is clicked
+2024-02-05T22:57:47Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:57:47Z [info]: Filled password
+2024-02-05T22:57:49Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:57:50Z [info]: Login Button is clicked
+2024-02-05T22:57:52Z [info]: Service Option is clicked
+2024-02-05T22:57:53Z [info]: Home Tab is visible
+2024-02-05T22:57:54Z [info]: Service Option is clicked
+2024-02-05T22:58:03Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:58:04Z [info]: Service Option is clicked
+2024-02-05T22:58:08Z [info]: Contacts Tab is visible
+2024-02-05T22:58:09Z [info]: Contacts Tab is clicked
+2024-02-05T22:58:13Z [info]: Test for Contact Creation is started...
+2024-02-05T22:58:14Z [info]: New button is clicked
+2024-02-05T22:58:14Z [info]: Navigated to login page
+2024-02-05T22:58:16Z [info]: Filled username
+2024-02-05T22:58:17Z [info]: Test for Contact Creation is started...
+2024-02-05T22:58:18Z [info]: Filled password
+2024-02-05T22:58:18Z [info]: Test for Contact Creation is started...
+2024-02-05T22:58:19Z [info]: Login Button is clicked
+2024-02-05T22:58:19Z [info]: Navigated to login page
+2024-02-05T22:58:19Z [info]: First name is filled as Aaron
+2024-02-05T22:58:20Z [info]: Last name is filled as Quigley
+2024-02-05T22:58:20Z [info]: Filled username
+2024-02-05T22:58:20Z [info]: Navigated to login page
+2024-02-05T22:58:21Z [info]: Home Tab is visible
+2024-02-05T22:58:22Z [info]: Filled password
+2024-02-05T22:58:23Z [info]: Save Button is clicked
+2024-02-05T22:58:23Z [info]: Login Button is clicked
+2024-02-05T22:58:24Z [info]: Filled username
+2024-02-05T22:58:24Z [info]: Filled password
+2024-02-05T22:58:25Z [info]: Login Button is clicked
+2024-02-05T22:58:26Z [info]: New contact created and Aaron Quigley is visible
+2024-02-05T22:58:27Z [info]: Home Tab is visible
+2024-02-05T22:58:28Z [info]: Home Tab is visible
+2024-02-05T22:58:33Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:58:34Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:58:34Z [info]: Test for Contact Creation is completed
+2024-02-05T22:58:37Z [info]: Test for Contact Creation is started...
+2024-02-05T22:58:37Z [info]: Service Option is clicked
+2024-02-05T22:58:38Z [info]: Navigated to login page
+2024-02-05T22:58:38Z [info]: Filled username
+2024-02-05T22:58:38Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:58:39Z [info]: Filled password
+2024-02-05T22:58:41Z [info]: Service Option is clicked
+2024-02-05T22:58:41Z [info]: Login Button is clicked
+2024-02-05T22:58:44Z [info]: Service Option is clicked
+2024-02-05T22:58:48Z [info]: Home Tab is visible
+2024-02-05T22:58:53Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:58:56Z [info]: Service Option is clicked
+2024-02-05T22:59:00Z [info]: Contacts Tab is visible
+2024-02-05T22:59:00Z [info]: Contacts Tab is clicked
+2024-02-05T22:59:04Z [info]: Test for Contact Creation is started...
+2024-02-05T22:59:05Z [info]: Navigated to login page
+2024-02-05T22:59:07Z [info]: Filled username
+2024-02-05T22:59:08Z [info]: Test for Contact Creation is started...
+2024-02-05T22:59:08Z [info]: Filled password
+2024-02-05T22:59:09Z [info]: New button is clicked
+2024-02-05T22:59:10Z [info]: Navigated to login page
+2024-02-05T22:59:11Z [info]: Login Button is clicked
+2024-02-05T22:59:11Z [info]: Test for Contact Creation is started...
+2024-02-05T22:59:12Z [info]: Filled username
+2024-02-05T22:59:12Z [info]: Navigated to login page
+2024-02-05T22:59:13Z [info]: Filled password
+2024-02-05T22:59:13Z [info]: Home Tab is visible
+2024-02-05T22:59:14Z [info]: First name is filled as Leonel
+2024-02-05T22:59:14Z [info]: Login Button is clicked
+2024-02-05T22:59:15Z [info]: Last name is filled as Gerhold
+2024-02-05T22:59:15Z [info]: Filled username
+2024-02-05T22:59:16Z [info]: Filled password
+2024-02-05T22:59:17Z [info]: Login Button is clicked
+2024-02-05T22:59:17Z [info]: Home Tab is visible
+2024-02-05T22:59:20Z [info]: Home Tab is visible
+2024-02-05T22:59:20Z [info]: Save Button is clicked
+2024-02-05T22:59:22Z [info]: New contact created and Leonel Gerhold is visible
+2024-02-05T22:59:24Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:59:26Z [info]: Test for Contact Creation is completed
+2024-02-05T22:59:27Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:59:28Z [info]: Service Option is clicked
+2024-02-05T22:59:30Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:59:31Z [info]: Test for Contact Creation is started...
+2024-02-05T22:59:32Z [info]: Navigated to login page
+2024-02-05T22:59:32Z [info]: Service Option is clicked
+2024-02-05T22:59:34Z [info]: Filled username
+2024-02-05T22:59:34Z [info]: Filled password
+2024-02-05T22:59:35Z [info]: Service Option is clicked
+2024-02-05T22:59:36Z [info]: Login Button is clicked
+2024-02-05T22:59:38Z [info]: Home Tab is visible
+2024-02-05T22:59:43Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T22:59:44Z [info]: Service Option is clicked
+2024-02-05T22:59:47Z [info]: Contacts Tab is visible
+2024-02-05T22:59:47Z [info]: Contacts Tab is clicked
+2024-02-05T22:59:50Z [info]: New button is clicked
+2024-02-05T22:59:52Z [info]: First name is filled as Jordane
+2024-02-05T22:59:53Z [info]: Last name is filled as Stark
+2024-02-05T22:59:53Z [info]: Save Button is clicked
+2024-02-05T22:59:55Z [info]: New contact created and Jordane Stark is visible
+2024-02-05T22:59:56Z [info]: Test for Contact Creation is completed
+2024-02-05T23:05:40Z [info]: Test for Contact Creation is started...
+2024-02-05T23:05:41Z [info]: Test for Contact Creation is started...
+2024-02-05T23:05:41Z [info]: Test for Contact Creation is started...
+2024-02-05T23:05:41Z [info]: Test for Contact Creation is started...
+2024-02-05T23:05:44Z [info]: Navigated to login page
+2024-02-05T23:05:44Z [info]: Navigated to login page
+2024-02-05T23:05:44Z [info]: Navigated to login page
+2024-02-05T23:05:44Z [info]: Navigated to login page
+2024-02-05T23:05:44Z [info]: Filled username
+2024-02-05T23:05:44Z [info]: Filled username
+2024-02-05T23:05:44Z [info]: Filled password
+2024-02-05T23:05:44Z [info]: Filled username
+2024-02-05T23:05:44Z [info]: Filled password
+2024-02-05T23:05:44Z [info]: Filled username
+2024-02-05T23:05:44Z [info]: Filled password
+2024-02-05T23:05:44Z [info]: Filled password
+2024-02-05T23:05:45Z [info]: Login Button is clicked
+2024-02-05T23:05:45Z [info]: Login Button is clicked
+2024-02-05T23:05:46Z [info]: Login Button is clicked
+2024-02-05T23:05:46Z [info]: Login Button is clicked
+2024-02-05T23:05:46Z [info]: Home Tab is visible
+2024-02-05T23:05:47Z [info]: Home Tab is visible
+2024-02-05T23:05:47Z [info]: Home Tab is visible
+2024-02-05T23:05:47Z [info]: Home Tab is visible
+2024-02-05T23:05:50Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:05:50Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:05:51Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:05:52Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:05:52Z [info]: Service Option is clicked
+2024-02-05T23:05:53Z [info]: Service Option is clicked
+2024-02-05T23:05:53Z [info]: Service Option is clicked
+2024-02-05T23:05:53Z [info]: Service Option is clicked
+2024-02-05T23:05:56Z [info]: Contacts Tab is visible
+2024-02-05T23:05:57Z [info]: Contacts Tab is visible
+2024-02-05T23:05:57Z [info]: Contacts Tab is visible
+2024-02-05T23:05:58Z [info]: Contacts Tab is clicked
+2024-02-05T23:05:58Z [info]: Contacts Tab is visible
+2024-02-05T23:05:58Z [info]: Contacts Tab is clicked
+2024-02-05T23:05:58Z [info]: Contacts Tab is clicked
+2024-02-05T23:05:58Z [info]: Contacts Tab is clicked
+2024-02-05T23:06:02Z [info]: New button is clicked
+2024-02-05T23:06:02Z [info]: New button is clicked
+2024-02-05T23:06:02Z [info]: New button is clicked
+2024-02-05T23:06:03Z [info]: New button is clicked
+2024-02-05T23:06:03Z [info]: First name is filled as Elmer
+2024-02-05T23:06:03Z [info]: Last name is filled as McLaughlin
+2024-02-05T23:06:04Z [info]: First name is filled as Percival
+2024-02-05T23:06:04Z [info]: Save Button is clicked
+2024-02-05T23:06:04Z [info]: Last name is filled as Nicolas
+2024-02-05T23:06:04Z [info]: Save Button is clicked
+2024-02-05T23:06:05Z [info]: First name is filled as Delia
+2024-02-05T23:06:05Z [info]: Last name is filled as Beatty
+2024-02-05T23:06:05Z [info]: First name is filled as Ima
+2024-02-05T23:06:06Z [info]: Last name is filled as Dietrich
+2024-02-05T23:06:06Z [info]: Save Button is clicked
+2024-02-05T23:06:06Z [info]: Save Button is clicked
+2024-02-05T23:06:07Z [info]: New contact created and Elmer McLaughlin is visible
+2024-02-05T23:06:07Z [info]: New contact created and Percival Nicolas is visible
+2024-02-05T23:06:07Z [info]: Test for Contact Creation is completed
+2024-02-05T23:06:08Z [info]: Test for Contact Creation is completed
+2024-02-05T23:06:09Z [info]: New contact created and Delia Beatty is visible
+2024-02-05T23:06:09Z [info]: New contact created and Ima Dietrich is visible
+2024-02-05T23:06:09Z [info]: Test for Contact Creation is started...
+2024-02-05T23:06:10Z [info]: Navigated to login page
+2024-02-05T23:06:10Z [info]: Filled username
+2024-02-05T23:06:10Z [info]: Test for Contact Creation is started...
+2024-02-05T23:06:10Z [info]: Test for Contact Creation is completed
+2024-02-05T23:06:10Z [info]: Filled password
+2024-02-05T23:06:10Z [info]: Test for Contact Creation is completed
+2024-02-05T23:06:10Z [info]: Navigated to login page
+2024-02-05T23:06:10Z [info]: Filled username
+2024-02-05T23:06:11Z [info]: Filled password
+2024-02-05T23:06:11Z [info]: Login Button is clicked
+2024-02-05T23:06:12Z [info]: Test for Contact Creation is started...
+2024-02-05T23:06:12Z [info]: Test for Contact Creation is started...
+2024-02-05T23:06:12Z [info]: Login Button is clicked
+2024-02-05T23:06:12Z [info]: Navigated to login page
+2024-02-05T23:06:12Z [info]: Navigated to login page
+2024-02-05T23:06:12Z [info]: Filled username
+2024-02-05T23:06:12Z [info]: Filled username
+2024-02-05T23:06:12Z [info]: Filled password
+2024-02-05T23:06:13Z [info]: Home Tab is visible
+2024-02-05T23:06:13Z [info]: Filled password
+2024-02-05T23:06:14Z [info]: Login Button is clicked
+2024-02-05T23:06:14Z [info]: Home Tab is visible
+2024-02-05T23:06:14Z [info]: Login Button is clicked
+2024-02-05T23:06:15Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:06:15Z [info]: Home Tab is visible
+2024-02-05T23:06:16Z [info]: Home Tab is visible
+2024-02-05T23:06:17Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:06:18Z [info]: Service Option is clicked
+2024-02-05T23:06:18Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:06:19Z [info]: Service Option is clicked
+2024-02-05T23:06:19Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:06:21Z [info]: Service Option is clicked
+2024-02-05T23:06:21Z [info]: Service Option is clicked
+2024-02-05T23:06:22Z [info]: Contacts Tab is visible
+2024-02-05T23:06:22Z [info]: Contacts Tab is clicked
+2024-02-05T23:06:23Z [info]: Contacts Tab is visible
+2024-02-05T23:06:23Z [info]: Contacts Tab is visible
+2024-02-05T23:06:23Z [info]: Contacts Tab is clicked
+2024-02-05T23:06:25Z [info]: Contacts Tab is clicked
+2024-02-05T23:06:25Z [info]: Contacts Tab is visible
+2024-02-05T23:06:26Z [info]: Contacts Tab is clicked
+2024-02-05T23:06:27Z [info]: New button is clicked
+2024-02-05T23:06:27Z [info]: New button is clicked
+2024-02-05T23:06:28Z [info]: First name is filled as Clovis
+2024-02-05T23:06:29Z [info]: New button is clicked
+2024-02-05T23:06:30Z [info]: First name is filled as Amara
+2024-02-05T23:06:30Z [info]: Last name is filled as Bogisich
+2024-02-05T23:06:30Z [info]: New button is clicked
+2024-02-05T23:06:30Z [info]: Save Button is clicked
+2024-02-05T23:06:30Z [info]: Last name is filled as Sanford
+2024-02-05T23:06:31Z [info]: Save Button is clicked
+2024-02-05T23:06:32Z [info]: First name is filled as Josianne
+2024-02-05T23:06:32Z [info]: Last name is filled as Champlin
+2024-02-05T23:06:32Z [info]: New contact created and Amara Bogisich is visible
+2024-02-05T23:06:32Z [info]: Save Button is clicked
+2024-02-05T23:06:33Z [info]: First name is filled as Patricia
+2024-02-05T23:06:33Z [info]: Last name is filled as Gutkowski
+2024-02-05T23:06:33Z [info]: Save Button is clicked
+2024-02-05T23:06:34Z [info]: Test for Contact Creation is completed
+2024-02-05T23:06:34Z [info]: New contact created and Clovis Sanford is visible
+2024-02-05T23:06:35Z [info]: New contact created and Josianne Champlin is visible
+2024-02-05T23:06:35Z [info]: Test for Contact Creation is completed
+2024-02-05T23:06:35Z [info]: Test for Contact Creation is started...
+2024-02-05T23:06:35Z [info]: Test for Contact Creation is completed
+2024-02-05T23:06:36Z [info]: Navigated to login page
+2024-02-05T23:06:36Z [info]: Filled username
+2024-02-05T23:06:36Z [info]: New contact created and Patricia Gutkowski is visible
+2024-02-05T23:06:36Z [info]: Filled password
+2024-02-05T23:06:36Z [info]: Test for Contact Creation is started...
+2024-02-05T23:06:37Z [info]: Navigated to login page
+2024-02-05T23:06:37Z [info]: Filled username
+2024-02-05T23:06:37Z [info]: Test for Contact Creation is started...
+2024-02-05T23:06:37Z [info]: Filled password
+2024-02-05T23:06:37Z [info]: Navigated to login page
+2024-02-05T23:06:37Z [info]: Test for Contact Creation is completed
+2024-02-05T23:06:37Z [info]: Login Button is clicked
+2024-02-05T23:06:37Z [info]: Filled username
+2024-02-05T23:06:38Z [info]: Filled password
+2024-02-05T23:06:38Z [info]: Login Button is clicked
+2024-02-05T23:06:38Z [info]: Test for Contact Creation is started...
+2024-02-05T23:06:39Z [info]: Home Tab is visible
+2024-02-05T23:06:39Z [info]: Login Button is clicked
+2024-02-05T23:06:39Z [info]: Navigated to login page
+2024-02-05T23:06:39Z [info]: Filled username
+2024-02-05T23:06:39Z [info]: Filled password
+2024-02-05T23:06:39Z [info]: Home Tab is visible
+2024-02-05T23:06:40Z [info]: Login Button is clicked
+2024-02-05T23:06:40Z [info]: Home Tab is visible
+2024-02-05T23:06:41Z [info]: Home Tab is visible
+2024-02-05T23:06:41Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:06:43Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:06:44Z [info]: Service Option is clicked
+2024-02-05T23:06:44Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:06:44Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:06:45Z [info]: Service Option is clicked
+2024-02-05T23:06:46Z [info]: Service Option is clicked
+2024-02-05T23:06:46Z [info]: Service Option is clicked
+2024-02-05T23:06:48Z [info]: Contacts Tab is visible
+2024-02-05T23:06:48Z [info]: Contacts Tab is clicked
+2024-02-05T23:06:49Z [info]: Contacts Tab is visible
+2024-02-05T23:06:49Z [info]: Contacts Tab is clicked
+2024-02-05T23:06:50Z [info]: Contacts Tab is visible
+2024-02-05T23:06:50Z [info]: Contacts Tab is visible
+2024-02-05T23:06:50Z [info]: Contacts Tab is clicked
+2024-02-05T23:06:51Z [info]: Contacts Tab is clicked
+2024-02-05T23:06:52Z [info]: New button is clicked
+2024-02-05T23:06:53Z [info]: New button is clicked
+2024-02-05T23:06:54Z [info]: New button is clicked
+2024-02-05T23:06:55Z [info]: First name is filled as Jayson
+2024-02-05T23:06:55Z [info]: Last name is filled as Kulas
+2024-02-05T23:06:56Z [info]: Save Button is clicked
+2024-02-05T23:06:56Z [info]: First name is filled as Victoria
+2024-02-05T23:06:56Z [info]: New button is clicked
+2024-02-05T23:06:56Z [info]: Last name is filled as Ortiz-McCullough
+2024-02-05T23:06:57Z [info]: Save Button is clicked
+2024-02-05T23:06:57Z [info]: First name is filled as Elinor
+2024-02-05T23:06:57Z [info]: Last name is filled as West
+2024-02-05T23:06:58Z [info]: First name is filled as Aaron
+2024-02-05T23:06:58Z [info]: Save Button is clicked
+2024-02-05T23:06:58Z [info]: Last name is filled as Quigley
+2024-02-05T23:06:58Z [info]: Save Button is clicked
+2024-02-05T23:06:59Z [info]: New contact created and Jayson Kulas is visible
+2024-02-05T23:06:59Z [info]: New contact created and Victoria Ortiz-McCullough is visible
+2024-02-05T23:06:59Z [info]: Test for Contact Creation is completed
+2024-02-05T23:07:00Z [info]: Test for Contact Creation is completed
+2024-02-05T23:07:00Z [info]: Test for Contact Creation is started...
+2024-02-05T23:07:00Z [info]: New contact created and Elinor West is visible
+2024-02-05T23:07:01Z [info]: Navigated to login page
+2024-02-05T23:07:01Z [info]: Filled username
+2024-02-05T23:07:01Z [info]: Filled password
+2024-02-05T23:07:01Z [info]: New contact created and Aaron Quigley is visible
+2024-02-05T23:07:01Z [info]: Login Button is clicked
+2024-02-05T23:07:01Z [info]: Test for Contact Creation is started...
+2024-02-05T23:07:02Z [info]: Navigated to login page
+2024-02-05T23:07:02Z [info]: Test for Contact Creation is completed
+2024-02-05T23:07:02Z [info]: Test for Contact Creation is completed
+2024-02-05T23:07:02Z [info]: Filled username
+2024-02-05T23:07:02Z [info]: Filled password
+2024-02-05T23:07:03Z [info]: Home Tab is visible
+2024-02-05T23:07:03Z [info]: Login Button is clicked
+2024-02-05T23:07:03Z [info]: Test for Contact Creation is started...
+2024-02-05T23:07:04Z [info]: Test for Contact Creation is started...
+2024-02-05T23:07:04Z [info]: Navigated to login page
+2024-02-05T23:07:04Z [info]: Filled username
+2024-02-05T23:07:04Z [info]: Filled password
+2024-02-05T23:07:04Z [info]: Home Tab is visible
+2024-02-05T23:07:04Z [info]: Navigated to login page
+2024-02-05T23:07:05Z [info]: Filled username
+2024-02-05T23:07:05Z [info]: Filled password
+2024-02-05T23:07:05Z [info]: Login Button is clicked
+2024-02-05T23:07:05Z [info]: Login Button is clicked
+2024-02-05T23:07:06Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:07:06Z [info]: Home Tab is visible
+2024-02-05T23:07:07Z [info]: Home Tab is visible
+2024-02-05T23:07:07Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:07:09Z [info]: Service Option is clicked
+2024-02-05T23:07:10Z [info]: Service Option is clicked
+2024-02-05T23:07:10Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:07:11Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:07:13Z [info]: Contacts Tab is visible
+2024-02-05T23:07:13Z [info]: Service Option is clicked
+2024-02-05T23:07:13Z [info]: Service Option is clicked
+2024-02-05T23:07:14Z [info]: Contacts Tab is clicked
+2024-02-05T23:07:14Z [info]: Contacts Tab is visible
+2024-02-05T23:07:15Z [info]: Contacts Tab is clicked
+2024-02-05T23:07:17Z [info]: Contacts Tab is visible
+2024-02-05T23:07:17Z [info]: Contacts Tab is visible
+2024-02-05T23:07:17Z [info]: Contacts Tab is clicked
+2024-02-05T23:07:17Z [info]: Contacts Tab is clicked
+2024-02-05T23:07:18Z [info]: New button is clicked
+2024-02-05T23:07:19Z [info]: New button is clicked
+2024-02-05T23:07:20Z [info]: First name is filled as Alexander
+2024-02-05T23:07:21Z [info]: Last name is filled as Davis
+2024-02-05T23:07:21Z [info]: New button is clicked
+2024-02-05T23:07:21Z [info]: Save Button is clicked
+2024-02-05T23:07:22Z [info]: First name is filled as Kathryne
+2024-02-05T23:07:22Z [info]: Last name is filled as Ortiz
+2024-02-05T23:07:23Z [info]: Save Button is clicked
+2024-02-05T23:07:24Z [info]: New button is clicked
+2024-02-05T23:07:24Z [info]: New contact created and Alexander Davis is visible
+2024-02-05T23:07:26Z [info]: First name is filled as Nona
+2024-02-05T23:07:26Z [info]: Test for Contact Creation is completed
+2024-02-05T23:07:26Z [info]: Last name is filled as Hamill
+2024-02-05T23:07:26Z [info]: New contact created and Kathryne Ortiz is visible
+2024-02-05T23:07:27Z [info]: First name is filled as Leonel
+2024-02-05T23:07:27Z [info]: Last name is filled as Gerhold
+2024-02-05T23:07:27Z [info]: Save Button is clicked
+2024-02-05T23:07:28Z [info]: Test for Contact Creation is started...
+2024-02-05T23:07:29Z [info]: Save Button is clicked
+2024-02-05T23:07:29Z [info]: Test for Contact Creation is completed
+2024-02-05T23:07:29Z [info]: Navigated to login page
+2024-02-05T23:07:29Z [info]: Filled username
+2024-02-05T23:07:30Z [info]: Filled password
+2024-02-05T23:07:30Z [info]: New contact created and Nona Hamill is visible
+2024-02-05T23:07:30Z [info]: New contact created and Leonel Gerhold is visible
+2024-02-05T23:07:31Z [info]: Test for Contact Creation is started...
+2024-02-05T23:07:31Z [info]: Login Button is clicked
+2024-02-05T23:07:31Z [info]: Navigated to login page
+2024-02-05T23:07:31Z [info]: Filled username
+2024-02-05T23:07:32Z [info]: Test for Contact Creation is completed
+2024-02-05T23:07:32Z [info]: Test for Contact Creation is completed
+2024-02-05T23:07:32Z [info]: Filled password
+2024-02-05T23:07:32Z [info]: Home Tab is visible
+2024-02-05T23:07:33Z [info]: Login Button is clicked
+2024-02-05T23:07:33Z [info]: Test for Contact Creation is started...
+2024-02-05T23:07:33Z [info]: Test for Contact Creation is started...
+2024-02-05T23:07:33Z [info]: Navigated to login page
+2024-02-05T23:07:34Z [info]: Filled username
+2024-02-05T23:07:34Z [info]: Filled password
+2024-02-05T23:07:34Z [info]: Navigated to login page
+2024-02-05T23:07:34Z [info]: Filled username
+2024-02-05T23:07:34Z [info]: Filled password
+2024-02-05T23:07:34Z [info]: Home Tab is visible
+2024-02-05T23:07:35Z [info]: Login Button is clicked
+2024-02-05T23:07:35Z [info]: Login Button is clicked
+2024-02-05T23:07:36Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:07:36Z [info]: Home Tab is visible
+2024-02-05T23:07:36Z [info]: Home Tab is visible
+2024-02-05T23:07:38Z [info]: Service Option is clicked
+2024-02-05T23:07:38Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:07:39Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:07:40Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:07:41Z [info]: Service Option is clicked
+2024-02-05T23:07:42Z [info]: Contacts Tab is visible
+2024-02-05T23:07:42Z [info]: Service Option is clicked
+2024-02-05T23:07:42Z [info]: Service Option is clicked
+2024-02-05T23:07:43Z [info]: Contacts Tab is clicked
+2024-02-05T23:07:44Z [info]: Contacts Tab is visible
+2024-02-05T23:07:45Z [info]: Contacts Tab is clicked
+2024-02-05T23:07:46Z [info]: Contacts Tab is visible
+2024-02-05T23:07:46Z [info]: Contacts Tab is visible
+2024-02-05T23:07:46Z [info]: Contacts Tab is clicked
+2024-02-05T23:07:47Z [info]: Contacts Tab is clicked
+2024-02-05T23:07:48Z [info]: New button is clicked
+2024-02-05T23:07:49Z [info]: First name is filled as Rafaela
+2024-02-05T23:07:49Z [info]: Last name is filled as Morar
+2024-02-05T23:07:49Z [info]: New button is clicked
+2024-02-05T23:07:50Z [info]: Save Button is clicked
+2024-02-05T23:07:51Z [info]: New button is clicked
+2024-02-05T23:07:51Z [info]: New button is clicked
+2024-02-05T23:07:52Z [info]: New contact created and Rafaela Morar is visible
+2024-02-05T23:07:52Z [info]: First name is filled as Serena
+2024-02-05T23:07:52Z [info]: Last name is filled as Jerde
+2024-02-05T23:07:52Z [info]: Test for Contact Creation is completed
+2024-02-05T23:07:52Z [info]: Save Button is clicked
+2024-02-05T23:07:53Z [info]: First name is filled as Sherwood
+2024-02-05T23:07:53Z [info]: Last name is filled as Jones-Kassulke
+2024-02-05T23:07:54Z [info]: Save Button is clicked
+2024-02-05T23:07:54Z [info]: First name is filled as Jordane
+2024-02-05T23:07:54Z [info]: Last name is filled as Stark
+2024-02-05T23:07:54Z [info]: Save Button is clicked
+2024-02-05T23:07:54Z [info]: New contact created and Serena Jerde is visible
+2024-02-05T23:07:56Z [info]: Test for Contact Creation is completed
+2024-02-05T23:07:56Z [info]: New contact created and Sherwood Jones-Kassulke is visible
+2024-02-05T23:07:57Z [info]: Test for Contact Creation is completed
+2024-02-05T23:07:57Z [info]: New contact created and Jordane Stark is visible
+2024-02-05T23:07:57Z [info]: Test for Contact Creation is completed

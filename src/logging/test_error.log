@@ -1,0 +1,24 @@
+2024-02-05T23:13:04Z [error]: Login failed: Error: expect.toBeVisible: Error: strict mode violation: getByTitle('Home') resolved to 3 elements:
+    1) <span title="Home" href="javascript:void(0);" class="s…>…</span> aka locator('#iconstage').getByTitle('Home')
+    2) <a role="tab" title="Home" tabindex="-1" data-tabid…>…</a> aka getByRole('tab', { name: 'Home' })
+    3) <a role="tab" tabindex="0" title="Home" data-tabid=…>…</a> aka getByLabel('Subtabs for Home').getByTitle('Home')
+
+Call log:
+  [2m- expect.toBeVisible with timeout 60000ms[22m
+[2m  - waiting for getByTitle('Home')[22m
+[2m  -   locator resolved to <span title="Home" href="javascript:void(0);" class="s…>…</span>[22m
+[2m  -   unexpected value "hidden"[22m
+[2m  -   locator resolved to <span title="Home" href="javascript:void(0);" class="s…>…</span>[22m
+[2m  -   unexpected value "hidden"[22m
+[2m  -   locator resolved to <span title="Home" href="javascript:void(0);" class="s…>…</span>[22m
+[2m  -   unexpected value "hidden"[22m
+
+2024-02-05T23:15:18Z [error]: New contact creation failed: Error: [31mTimed out 5000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoContainText[2m([22m[32mexpected[39m[2m)[22m
+
+Locator: locator('sfa-output-name-with-hierarchy-icon-wrapper')
+Expected string: [32m"Rafaela Morar"[39m
+Received string: [31m""[39m
+Call log:
+  [2m- expect.toContainText with timeout 5000ms[22m
+[2m  - waiting for locator('sfa-output-name-with-hierarchy-icon-wrapper')[22m
+

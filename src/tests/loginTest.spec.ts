@@ -5,12 +5,10 @@ import { encrypt, decrypt } from "../utils/CryptojsUtil";
 import { encryptEnvFile, decryptEnvFile } from "../utils/EncryptEnvFile";
 import logger from "../utils/LoggerUtil";
 
-test("test", async ({ page}) => {
+test("Login test", async ({ page}) => {
 
    const loginPage = new LoginPage(page);
    await loginPage.navigateToLoginPage();
-   // await loginPage.fillUsername("gnayak0206@gmail.com");
-   // await loginPage.fillPassword("SalesforceTesting2024");
    await loginPage.fillUsername(decrypt(process.env.userid!));
    await loginPage.fillPassword(decrypt(process.env.password!));
    const homePage = await loginPage.clickLoginButton();
@@ -18,7 +16,7 @@ test("test", async ({ page}) => {
    logger.info("Test for login is completed");
 });
 
-test.skip("Sample env test", async ({ page }) => {
+test.skip("Sample env file encryption test", async ({ page }) => {
    // const plaintext = 'Hello, Mars!';
    // const encryptedText = encrypt(plaintext);
    // console.log('SALT: ', process.env.SALT);
@@ -29,7 +27,7 @@ test.skip("Sample env test", async ({ page }) => {
    // console.log(decrypt(""));
 });
 
-test("Check decryption of creds stored in env variables", async ({ page }) => {
+test.skip("Check decryption of creds stored in env variables", async ({ page }) => {
    console.log("SALT: ", process.env.SALT);
    const decryptedUsername = decrypt(process.env.userid!);
    console.log('Decrypted Username: ', decryptedUsername);

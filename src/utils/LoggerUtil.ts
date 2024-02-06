@@ -27,14 +27,14 @@ const logger = winston.createLogger({
       new winston.transports.Console({ level: "debug" }),
       new winston.transports.File({
          filename: path.join(loggingDir, "test_run.log"),
-         maxFiles: 5, // Number of log files to retain
-         maxsize: 10 * 1024, // 10 KB, specify the debug log file size in bytes
+         maxFiles: 25, // Number of log files to retain
+         maxsize: 50 * 1024, // 10 KB, specify the debug log file size in bytes
          level: "info",
       }),
       new winston.transports.File({
          filename: path.join(loggingDir, "test_error.log"),
-         maxFiles: 5, // Number of log files to retain
-         maxsize: 10 * 1024, // 10 KB, specify the error log file size in bytes
+         maxFiles: 25, // Number of log files to retain
+         maxsize: 50 * 1024, // 10 KB, specify the error log file size in bytes
          level: "error",
       }),
    ],

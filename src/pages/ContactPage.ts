@@ -15,7 +15,7 @@ export default class ContactPage {
    }
 
    async createNewContact(fname: string, lname:string) {
-      await this.page.getByRole('button', { name: this.newButtonLocator }).click();
+      await this.page.getByRole('button', { name: this.newButtonLocator, exact: true }).click();
       logger.info("New button is clicked");
       await this.page.getByPlaceholder(this.firstNameTextFieldLocator).click();
       await this.page.getByPlaceholder(this.firstNameTextFieldLocator).fill(fname);
@@ -36,10 +36,6 @@ export default class ContactPage {
             throw error; // rethrow the error if needed
          }).then(() => logger.info(`New contact created and ${fname} ${lname} is visible`));
 
-
-
-
       await this.page.getByRole('link', { name: this.contactsLink }).click();
-   
    }
 }

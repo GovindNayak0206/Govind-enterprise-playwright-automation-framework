@@ -1,0 +1,331 @@
+2024-02-05T23:10:14Z [info]: Test for Contact Creation is started...
+2024-02-05T23:10:14Z [info]: Test for Contact Creation is started...
+2024-02-05T23:10:14Z [info]: Test for Contact Creation is started...
+2024-02-05T23:10:15Z [info]: Test for Contact Creation is started...
+2024-02-05T23:10:15Z [info]: Navigated to login page
+2024-02-05T23:10:16Z [info]: Filled username
+2024-02-05T23:10:16Z [info]: Navigated to login page
+2024-02-05T23:10:17Z [info]: Filled password
+2024-02-05T23:10:18Z [info]: Filled username
+2024-02-05T23:10:18Z [info]: Login Button is clicked
+2024-02-05T23:10:19Z [info]: Navigated to login page
+2024-02-05T23:10:19Z [info]: Filled password
+2024-02-05T23:10:19Z [info]: Navigated to login page
+2024-02-05T23:10:20Z [info]: Filled username
+2024-02-05T23:10:21Z [info]: Home Tab is visible
+2024-02-05T23:10:21Z [info]: Login Button is clicked
+2024-02-05T23:10:21Z [info]: Filled password
+2024-02-05T23:10:22Z [info]: Filled username
+2024-02-05T23:10:22Z [info]: Filled password
+2024-02-05T23:10:23Z [info]: Login Button is clicked
+2024-02-05T23:10:24Z [info]: Login Button is clicked
+2024-02-05T23:10:27Z [info]: Home Tab is visible
+2024-02-05T23:10:29Z [info]: Home Tab is visible
+2024-02-05T23:10:29Z [info]: Home Tab is visible
+2024-02-05T23:10:39Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:10:39Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:10:40Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:10:43Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:10:44Z [info]: Service Option is clicked
+2024-02-05T23:10:45Z [info]: Service Option is clicked
+2024-02-05T23:10:45Z [info]: Service Option is clicked
+2024-02-05T23:10:46Z [info]: Service Option is clicked
+2024-02-05T23:10:51Z [info]: Contacts Tab is visible
+2024-02-05T23:10:54Z [info]: Contacts Tab is visible
+2024-02-05T23:10:54Z [info]: Contacts Tab is visible
+2024-02-05T23:10:55Z [info]: Contacts Tab is clicked
+2024-02-05T23:10:55Z [info]: Contacts Tab is visible
+2024-02-05T23:10:57Z [info]: Contacts Tab is clicked
+2024-02-05T23:10:57Z [info]: Contacts Tab is clicked
+2024-02-05T23:10:58Z [info]: Contacts Tab is clicked
+2024-02-05T23:11:01Z [info]: New button is clicked
+2024-02-05T23:11:03Z [info]: New button is clicked
+2024-02-05T23:11:04Z [info]: New button is clicked
+2024-02-05T23:11:06Z [info]: New button is clicked
+2024-02-05T23:11:06Z [info]: First name is filled as Elmer
+2024-02-05T23:11:07Z [info]: First name is filled as Ima
+2024-02-05T23:11:07Z [info]: Last name is filled as McLaughlin
+2024-02-05T23:11:07Z [info]: Last name is filled as Dietrich
+2024-02-05T23:11:08Z [info]: Save Button is clicked
+2024-02-05T23:11:08Z [info]: First name is filled as Delia
+2024-02-05T23:11:08Z [info]: Save Button is clicked
+2024-02-05T23:11:08Z [info]: Last name is filled as Beatty
+2024-02-05T23:11:08Z [info]: First name is filled as Percival
+2024-02-05T23:11:09Z [info]: Last name is filled as Nicolas
+2024-02-05T23:11:09Z [info]: Save Button is clicked
+2024-02-05T23:11:09Z [info]: Save Button is clicked
+2024-02-05T23:11:12Z [info]: New contact created and Elmer McLaughlin is visible
+2024-02-05T23:11:13Z [info]: New contact created and Delia Beatty is visible
+2024-02-05T23:11:13Z [info]: New contact created and Ima Dietrich is visible
+2024-02-05T23:11:13Z [info]: New contact created and Percival Nicolas is visible
+2024-02-05T23:11:14Z [info]: Test for Contact Creation is completed
+2024-02-05T23:11:15Z [info]: Test for Contact Creation is completed
+2024-02-05T23:11:15Z [info]: Test for Contact Creation is completed
+2024-02-05T23:11:16Z [info]: Test for Contact Creation is completed
+2024-02-05T23:11:19Z [info]: Test for Contact Creation is started...
+2024-02-05T23:11:21Z [info]: Navigated to login page
+2024-02-05T23:11:22Z [info]: Test for Contact Creation is started...
+2024-02-05T23:11:22Z [info]: Test for Contact Creation is started...
+2024-02-05T23:11:23Z [info]: Test for Contact Creation is started...
+2024-02-05T23:11:23Z [info]: Navigated to login page
+2024-02-05T23:11:23Z [info]: Navigated to login page
+2024-02-05T23:11:23Z [info]: Filled username
+2024-02-05T23:11:23Z [info]: Navigated to login page
+2024-02-05T23:11:24Z [info]: Filled username
+2024-02-05T23:11:24Z [info]: Filled password
+2024-02-05T23:11:24Z [info]: Filled username
+2024-02-05T23:11:25Z [info]: Filled password
+2024-02-05T23:11:25Z [info]: Filled username
+2024-02-05T23:11:25Z [info]: Login Button is clicked
+2024-02-05T23:11:26Z [info]: Filled password
+2024-02-05T23:11:27Z [info]: Login Button is clicked
+2024-02-05T23:11:27Z [info]: Login Button is clicked
+2024-02-05T23:11:28Z [info]: Filled password
+2024-02-05T23:11:28Z [info]: Home Tab is visible
+2024-02-05T23:11:29Z [info]: Login Button is clicked
+2024-02-05T23:11:33Z [info]: Home Tab is visible
+2024-02-05T23:11:37Z [info]: Home Tab is visible
+2024-02-05T23:11:40Z [info]: Home Tab is visible
+2024-02-05T23:11:46Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:11:47Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:11:49Z [info]: Service Option is clicked
+2024-02-05T23:11:49Z [info]: Service Option is clicked
+2024-02-05T23:11:49Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:11:50Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:11:53Z [info]: Service Option is clicked
+2024-02-05T23:11:54Z [info]: Service Option is clicked
+2024-02-05T23:11:55Z [info]: Contacts Tab is visible
+2024-02-05T23:11:55Z [info]: Contacts Tab is visible
+2024-02-05T23:11:57Z [info]: Contacts Tab is clicked
+2024-02-05T23:11:58Z [info]: Contacts Tab is clicked
+2024-02-05T23:11:59Z [info]: Contacts Tab is visible
+2024-02-05T23:12:00Z [info]: Contacts Tab is visible
+2024-02-05T23:12:00Z [info]: Contacts Tab is clicked
+2024-02-05T23:12:01Z [info]: Contacts Tab is clicked
+2024-02-05T23:12:03Z [info]: New button is clicked
+2024-02-05T23:12:03Z [info]: New button is clicked
+2024-02-05T23:12:05Z [info]: New button is clicked
+2024-02-05T23:12:06Z [info]: New button is clicked
+2024-02-05T23:12:08Z [info]: First name is filled as Amara
+2024-02-05T23:12:08Z [info]: First name is filled as Josianne
+2024-02-05T23:12:09Z [info]: Last name is filled as Bogisich
+2024-02-05T23:12:09Z [info]: Last name is filled as Champlin
+2024-02-05T23:12:09Z [info]: Save Button is clicked
+2024-02-05T23:12:09Z [info]: Save Button is clicked
+2024-02-05T23:12:09Z [info]: First name is filled as Clovis
+2024-02-05T23:12:11Z [info]: Last name is filled as Sanford
+2024-02-05T23:12:12Z [info]: First name is filled as Patricia
+2024-02-05T23:12:12Z [info]: Save Button is clicked
+2024-02-05T23:12:13Z [info]: New contact created and Amara Bogisich is visible
+2024-02-05T23:12:13Z [info]: New contact created and Josianne Champlin is visible
+2024-02-05T23:12:14Z [info]: Last name is filled as Gutkowski
+2024-02-05T23:12:15Z [info]: Save Button is clicked
+2024-02-05T23:12:16Z [info]: Test for Contact Creation is completed
+2024-02-05T23:12:16Z [info]: New contact created and Clovis Sanford is visible
+2024-02-05T23:12:18Z [info]: Test for Contact Creation is completed
+2024-02-05T23:12:19Z [info]: New contact created and Patricia Gutkowski is visible
+2024-02-05T23:12:20Z [info]: Test for Contact Creation is completed
+2024-02-05T23:12:21Z [info]: Test for Contact Creation is started...
+2024-02-05T23:12:21Z [info]: Navigated to login page
+2024-02-05T23:12:22Z [info]: Filled username
+2024-02-05T23:12:23Z [info]: Test for Contact Creation is started...
+2024-02-05T23:12:24Z [info]: Navigated to login page
+2024-02-05T23:12:25Z [info]: Filled password
+2024-02-05T23:12:26Z [info]: Login Button is clicked
+2024-02-05T23:12:27Z [info]: Filled username
+2024-02-05T23:12:27Z [info]: Test for Contact Creation is completed
+2024-02-05T23:12:29Z [info]: Filled password
+2024-02-05T23:12:33Z [info]: Home Tab is visible
+2024-02-05T23:12:36Z [info]: Login Button is clicked
+2024-02-05T23:12:41Z [info]: Test for Contact Creation is started...
+2024-02-05T23:12:41Z [info]: Home Tab is visible
+2024-02-05T23:12:43Z [info]: Navigated to login page
+2024-02-05T23:12:46Z [info]: Test for Contact Creation is started...
+2024-02-05T23:12:46Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:12:47Z [info]: Navigated to login page
+2024-02-05T23:12:47Z [info]: Filled username
+2024-02-05T23:12:48Z [info]: Filled password
+2024-02-05T23:12:49Z [info]: Login Button is clicked
+2024-02-05T23:12:50Z [info]: Filled username
+2024-02-05T23:12:51Z [info]: Filled password
+2024-02-05T23:12:52Z [info]: Login Button is clicked
+2024-02-05T23:12:53Z [info]: Service Option is clicked
+2024-02-05T23:12:53Z [info]: Home Tab is visible
+2024-02-05T23:13:00Z [info]: Contacts Tab is visible
+2024-02-05T23:13:01Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:13:02Z [info]: Service Option is clicked
+2024-02-05T23:13:04Z [error]: Login failed: Error: expect.toBeVisible: Error: strict mode violation: getByTitle('Home') resolved to 3 elements:
+    1) <span title="Home" href="javascript:void(0);" class="s…>…</span> aka locator('#iconstage').getByTitle('Home')
+    2) <a role="tab" title="Home" tabindex="-1" data-tabid…>…</a> aka getByRole('tab', { name: 'Home' })
+    3) <a role="tab" tabindex="0" title="Home" data-tabid=…>…</a> aka getByLabel('Subtabs for Home').getByTitle('Home')
+
+Call log:
+  [2m- expect.toBeVisible with timeout 60000ms[22m
+[2m  - waiting for getByTitle('Home')[22m
+[2m  -   locator resolved to <span title="Home" href="javascript:void(0);" class="s…>…</span>[22m
+[2m  -   unexpected value "hidden"[22m
+[2m  -   locator resolved to <span title="Home" href="javascript:void(0);" class="s…>…</span>[22m
+[2m  -   unexpected value "hidden"[22m
+[2m  -   locator resolved to <span title="Home" href="javascript:void(0);" class="s…>…</span>[22m
+[2m  -   unexpected value "hidden"[22m
+
+2024-02-05T23:13:05Z [info]: Contacts Tab is clicked
+2024-02-05T23:13:05Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:13:07Z [info]: Service Option is clicked
+2024-02-05T23:13:08Z [info]: Contacts Tab is visible
+2024-02-05T23:13:11Z [info]: Contacts Tab is clicked
+2024-02-05T23:13:12Z [info]: Contacts Tab is visible
+2024-02-05T23:13:13Z [info]: New button is clicked
+2024-02-05T23:13:14Z [info]: Contacts Tab is clicked
+2024-02-05T23:13:15Z [info]: New button is clicked
+2024-02-05T23:13:17Z [info]: First name is filled as Jayson
+2024-02-05T23:13:17Z [info]: Last name is filled as Kulas
+2024-02-05T23:13:18Z [info]: Save Button is clicked
+2024-02-05T23:13:18Z [info]: First name is filled as Victoria
+2024-02-05T23:13:20Z [info]: New button is clicked
+2024-02-05T23:13:21Z [info]: Last name is filled as Ortiz-McCullough
+2024-02-05T23:13:21Z [info]: New contact created and Jayson Kulas is visible
+2024-02-05T23:13:21Z [info]: Save Button is clicked
+2024-02-05T23:13:24Z [info]: Test for Contact Creation is completed
+2024-02-05T23:13:25Z [info]: New contact created and Victoria Ortiz-McCullough is visible
+2024-02-05T23:13:25Z [info]: First name is filled as Elinor
+2024-02-05T23:13:26Z [info]: Last name is filled as West
+2024-02-05T23:13:27Z [info]: Test for Contact Creation is started...
+2024-02-05T23:13:28Z [info]: Save Button is clicked
+2024-02-05T23:13:28Z [info]: Navigated to login page
+2024-02-05T23:13:29Z [info]: Test for Contact Creation is started...
+2024-02-05T23:13:30Z [info]: Filled username
+2024-02-05T23:13:30Z [info]: Test for Contact Creation is completed
+2024-02-05T23:13:31Z [info]: Filled password
+2024-02-05T23:13:31Z [info]: New contact created and Elinor West is visible
+2024-02-05T23:13:32Z [info]: Login Button is clicked
+2024-02-05T23:13:32Z [info]: Navigated to login page
+2024-02-05T23:13:34Z [info]: Filled username
+2024-02-05T23:13:35Z [info]: Home Tab is visible
+2024-02-05T23:13:35Z [info]: Test for Contact Creation is started...
+2024-02-05T23:13:35Z [info]: Filled password
+2024-02-05T23:13:36Z [info]: Navigated to login page
+2024-02-05T23:13:36Z [info]: Login Button is clicked
+2024-02-05T23:13:37Z [info]: Filled username
+2024-02-05T23:13:37Z [info]: Test for Contact Creation is completed
+2024-02-05T23:13:38Z [info]: Filled password
+2024-02-05T23:13:39Z [info]: Login Button is clicked
+2024-02-05T23:13:40Z [info]: Home Tab is visible
+2024-02-05T23:13:41Z [info]: Test for Contact Creation is started...
+2024-02-05T23:13:42Z [info]: Navigated to login page
+2024-02-05T23:13:43Z [info]: Home Tab is visible
+2024-02-05T23:13:44Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:13:45Z [info]: Filled username
+2024-02-05T23:13:46Z [info]: Filled password
+2024-02-05T23:13:47Z [info]: Login Button is clicked
+2024-02-05T23:13:50Z [info]: Service Option is clicked
+2024-02-05T23:13:50Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:13:52Z [info]: Home Tab is visible
+2024-02-05T23:13:53Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:13:54Z [info]: Service Option is clicked
+2024-02-05T23:13:56Z [info]: Service Option is clicked
+2024-02-05T23:13:57Z [info]: Contacts Tab is visible
+2024-02-05T23:13:58Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:14:00Z [info]: Contacts Tab is clicked
+2024-02-05T23:14:00Z [info]: Contacts Tab is visible
+2024-02-05T23:14:01Z [info]: Service Option is clicked
+2024-02-05T23:14:02Z [info]: Contacts Tab is visible
+2024-02-05T23:14:02Z [info]: Contacts Tab is clicked
+2024-02-05T23:14:04Z [info]: Contacts Tab is clicked
+2024-02-05T23:14:06Z [info]: New button is clicked
+2024-02-05T23:14:06Z [info]: Contacts Tab is visible
+2024-02-05T23:14:07Z [info]: New button is clicked
+2024-02-05T23:14:08Z [info]: Contacts Tab is clicked
+2024-02-05T23:14:10Z [info]: New button is clicked
+2024-02-05T23:14:11Z [info]: First name is filled as Kathryne
+2024-02-05T23:14:11Z [info]: Last name is filled as Ortiz
+2024-02-05T23:14:11Z [info]: First name is filled as Alexander
+2024-02-05T23:14:12Z [info]: Save Button is clicked
+2024-02-05T23:14:13Z [info]: Last name is filled as Davis
+2024-02-05T23:14:14Z [info]: New button is clicked
+2024-02-05T23:14:15Z [info]: First name is filled as Nona
+2024-02-05T23:14:15Z [info]: Save Button is clicked
+2024-02-05T23:14:15Z [info]: Last name is filled as Hamill
+2024-02-05T23:14:16Z [info]: New contact created and Kathryne Ortiz is visible
+2024-02-05T23:14:17Z [info]: New contact created and Alexander Davis is visible
+2024-02-05T23:14:19Z [info]: Save Button is clicked
+2024-02-05T23:14:19Z [info]: New contact created and Nona Hamill is visible
+2024-02-05T23:14:20Z [info]: First name is filled as Leonel
+2024-02-05T23:14:20Z [info]: Last name is filled as Gerhold
+2024-02-05T23:14:20Z [info]: Test for Contact Creation is completed
+2024-02-05T23:14:20Z [info]: Test for Contact Creation is completed
+2024-02-05T23:14:22Z [info]: Save Button is clicked
+2024-02-05T23:14:22Z [info]: Test for Contact Creation is completed
+2024-02-05T23:14:24Z [info]: Test for Contact Creation is started...
+2024-02-05T23:14:24Z [info]: Navigated to login page
+2024-02-05T23:14:25Z [info]: Filled username
+2024-02-05T23:14:25Z [info]: New contact created and Leonel Gerhold is visible
+2024-02-05T23:14:26Z [info]: Test for Contact Creation is started...
+2024-02-05T23:14:27Z [info]: Navigated to login page
+2024-02-05T23:14:28Z [info]: Filled password
+2024-02-05T23:14:28Z [info]: Test for Contact Creation is started...
+2024-02-05T23:14:29Z [info]: Navigated to login page
+2024-02-05T23:14:29Z [info]: Login Button is clicked
+2024-02-05T23:14:29Z [info]: Filled username
+2024-02-05T23:14:30Z [info]: Test for Contact Creation is completed
+2024-02-05T23:14:30Z [info]: Filled username
+2024-02-05T23:14:30Z [info]: Filled password
+2024-02-05T23:14:31Z [info]: Home Tab is visible
+2024-02-05T23:14:31Z [info]: Login Button is clicked
+2024-02-05T23:14:31Z [info]: Filled password
+2024-02-05T23:14:33Z [info]: Login Button is clicked
+2024-02-05T23:14:35Z [info]: Home Tab is visible
+2024-02-05T23:14:37Z [info]: Home Tab is visible
+2024-02-05T23:14:43Z [info]: Test for Contact Creation is started...
+2024-02-05T23:14:44Z [info]: Navigated to login page
+2024-02-05T23:14:45Z [info]: Filled username
+2024-02-05T23:14:45Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:14:46Z [info]: Filled password
+2024-02-05T23:14:46Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:14:47Z [info]: Login Button is clicked
+2024-02-05T23:14:48Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:14:48Z [info]: Service Option is clicked
+2024-02-05T23:14:49Z [info]: Home Tab is visible
+2024-02-05T23:14:50Z [info]: Service Option is clicked
+2024-02-05T23:14:56Z [info]: Contacts Tab is visible
+2024-02-05T23:14:56Z [info]: Service Option is clicked
+2024-02-05T23:14:58Z [info]: Contacts Tab is visible
+2024-02-05T23:15:00Z [info]: Contacts Tab is clicked
+2024-02-05T23:15:00Z [info]: App Launcher Waffle Menu is clicked
+2024-02-05T23:15:00Z [info]: Contacts Tab is clicked
+2024-02-05T23:15:01Z [info]: Contacts Tab is visible
+2024-02-05T23:15:02Z [info]: Service Option is clicked
+2024-02-05T23:15:03Z [info]: Contacts Tab is clicked
+2024-02-05T23:15:06Z [info]: New button is clicked
+2024-02-05T23:15:07Z [info]: New button is clicked
+2024-02-05T23:15:07Z [info]: Contacts Tab is visible
+2024-02-05T23:15:08Z [info]: Contacts Tab is clicked
+2024-02-05T23:15:10Z [info]: New button is clicked
+2024-02-05T23:15:11Z [info]: First name is filled as Serena
+2024-02-05T23:15:12Z [info]: Last name is filled as Jerde
+2024-02-05T23:15:12Z [info]: First name is filled as Rafaela
+2024-02-05T23:15:12Z [info]: Save Button is clicked
+2024-02-05T23:15:12Z [info]: Last name is filled as Morar
+2024-02-05T23:15:12Z [info]: Save Button is clicked
+2024-02-05T23:15:13Z [info]: New button is clicked
+2024-02-05T23:15:14Z [info]: First name is filled as Sherwood
+2024-02-05T23:15:15Z [info]: Last name is filled as Jones-Kassulke
+2024-02-05T23:15:16Z [info]: Save Button is clicked
+2024-02-05T23:15:16Z [info]: New contact created and Serena Jerde is visible
+2024-02-05T23:15:18Z [error]: New contact creation failed: Error: [31mTimed out 5000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoContainText[2m([22m[32mexpected[39m[2m)[22m
+
+Locator: locator('sfa-output-name-with-hierarchy-icon-wrapper')
+Expected string: [32m"Rafaela Morar"[39m
+Received string: [31m""[39m
+Call log:
+  [2m- expect.toContainText with timeout 5000ms[22m
+[2m  - waiting for locator('sfa-output-name-with-hierarchy-icon-wrapper')[22m
+
+2024-02-05T23:15:19Z [info]: New contact created and Sherwood Jones-Kassulke is visible
+2024-02-05T23:15:19Z [info]: Test for Contact Creation is completed
+2024-02-05T23:15:20Z [info]: First name is filled as Jordane
+2024-02-05T23:15:21Z [info]: Last name is filled as Stark
+2024-02-05T23:15:21Z [info]: Save Button is clicked
+2024-02-05T23:15:21Z [info]: Test for Contact Creation is completed
+2024-02-05T23:15:24Z [info]: New contact created and Jordane Stark is visible
+2024-02-05T23:15:24Z [info]: Test for Contact Creation is completed
