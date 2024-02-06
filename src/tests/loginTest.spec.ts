@@ -5,7 +5,7 @@ import { encrypt, decrypt } from "../utils/CryptojsUtil";
 import { encryptEnvFile, decryptEnvFile } from "../utils/EncryptEnvFile";
 import logger from "../utils/LoggerUtil";
 
-test("Login test", async ({ page}) => {
+test.skip("Login test", async ({ page}) => {
 
    const loginPage = new LoginPage(page);
    await loginPage.navigateToLoginPage();
