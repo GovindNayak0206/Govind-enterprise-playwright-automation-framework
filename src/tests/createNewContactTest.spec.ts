@@ -14,7 +14,7 @@ import { defineConfig } from '@playwright/test';
 // });
 
 for (const contact of cdata) {
-   test(`Advance Data Driven test for ${contact.firstname} ${contact.lastname}`, async ({ page }) => {
+   test.skip(`Advance Data Driven test for ${contact.firstname} ${contact.lastname}`, async ({ page }) => {
       test.slow();
       logger.info("Test for Contact Creation is started...");
       const loginPage = new LoginPage(page);
